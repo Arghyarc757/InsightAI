@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+crewai
+chromadb
+pandas
+langchain
+langchain-community
+google-generativeai
+pydantic
+python-dotenv
+langchain-google-genai
+ollama
